@@ -15,10 +15,11 @@ namespace Test_form_CNO
         public Form1()
         {
             InitializeComponent();
+            this.Close();
         }
 
         /* 
-         * NAAM: Willekens Stijn
+         * NAAM: Frederik Nonneman
          */
 
 
